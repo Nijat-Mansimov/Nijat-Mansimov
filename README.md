@@ -40,6 +40,9 @@ src="https://img.shields.io/github/followers/Nijat-Mansimov?logo=github&style=fo
 
 <b>My GitHub Stats</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nijat-Mansimov&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nijat-Mansimov&show_icons=true&locale=en&layout=compact" alt="nijatmansimov" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nijat-Mansimov&show_icons=true&locale=en" alt="nijatmansimov" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nijat-Mansimov&" alt="peter-kimanzi" /></p>
 <br /><br /><br /><br /><br />
