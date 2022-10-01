@@ -11,7 +11,7 @@ I've been programming for 3 years now and finally found myself as a backend deve
 
 * 🌍  I'm based in Baku/Azerbaijan
 * ✉️  You can contact me at [mansimovnijat@gmail.com](mailto:mansimovnijat@gmail.com)
-* ✉   My Personal Portfolio Website <a href="https://nijat-mansimov.github.io/my-blog/" target="_blank">https://nicat-mansimov.github.io/my-blog</a>
+* ✉   My Personal Portfolio Website <a href="https://nijat-mansimov.github.io/my-blog/" target="_blank">https://nicat-mansimov.github.io/my-blog/</a>
 * 🧠  I'm learning Java
 
 <a href="https://www.github.com/Nijat-Mansimov" target="_blank" rel="noreferrer"><img
